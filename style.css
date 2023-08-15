@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+  }
+  body{
+    background-image: url(icon.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 20%;
+    background-position-y: 12%;
+    background-position-x: 93%;
+  }
+  
+  header h2{
+    background: rgb(40 138 154);
+    color: white;
+    padding: 15px 0px 15px 15px;
+  }
+  main{
+    margin: 2%;
+  }
+  main article { 
+    width: 70%; 
+    margin-top: 10px;
+  }
+  main video{
+    width: 100%;
+  }
+  main h3{
+      background-color: #ff815c;
+      color: white;
+      padding: 12px;
+  }
